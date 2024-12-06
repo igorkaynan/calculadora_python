@@ -1,7 +1,7 @@
 
 # Calculadora Python
 
-Este projeto é uma calculadora desenvolvido em **PHP**. O objetivo é criar uma aplicação de calculadora básica que permita realizar operações matemáticas como adição, subtração, multiplicação e divisão.
+Este projeto é uma calculadora desenvolvido em **Python**. O objetivo é criar uma aplicação de calculadora básica que permita realizar operações matemáticas como adição, subtração, multiplicação e divisão.
 
 ## Funcionalidades
 
