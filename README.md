@@ -12,7 +12,7 @@ Este projeto é uma calculadora desenvolvido em **Python**. O objetivo é criar 
 
 ## Tecnologias Utilizadas
 
-- PHP
+- PYTHON
 
 ## Como Instalar e Usar
 
