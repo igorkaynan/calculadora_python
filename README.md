@@ -27,9 +27,7 @@ Este projeto é uma calculadora desenvolvido em **Python**. O objetivo é criar 
 2. **Abrir o projeto:**
 
     - Navegue até a pasta onde os arquivos foram extraídos.
-    - Abra o terminal ou prompt de comando e execute o arquivo Python (calculadora.py) com o comando:
-    - Copiar código
-    - python calculadora.py
+    - Abra o terminal ou prompt de comando e execute o arquivo Python (calculadora.py)
 
 ## Exemplo Visual
 
